@@ -3,6 +3,8 @@
 ## Project Overview
 This project focuses on building an interactive Business Performance Dashboard using **Power BI** to analyze and monitor key operational metrics for an e-commerce business. The dashboard transforms raw transactional data into actionable insights, helping stakeholders track sales trends, customer growth, and shipping efficiency.
 
+<img width="1149" height="646" alt="image" src="https://github.com/user-attachments/assets/ea4778b7-e6b3-4028-8cbb-ce9ba1fa119a" />
+
 ## Key Metrics & Features
 * **Total Orders:** 9,999 successful orders tracked.
 * **Total Customers:** 6,128 unique customers.
